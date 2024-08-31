@@ -19,4 +19,4 @@
 
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minahkim026@khu.ac.kr)](mailto:minahkim026@khu.ac.kr) [![Youtube Badge](https://img.shields.io/badge/Youtube-d14836?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@sbskkaban)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minahkim026@khu.ac.kr)](mailto:minahkim026@khu.ac.kr) 
