@@ -8,7 +8,8 @@
 </p>
 
 ## Career
-- <strong>바이트웍스</strong> Backend Internship<sub> 2025.07 ~ now </sub>  </li>
+- <strong>바이트웍스</strong> Backend Internship<sub> 2025.07 ~ 2025. 12 </sub>  </li>
+- <strong>KIST-Europe</strong> AI 융합 클러스터 연구원 Internship<sub> 2026.02 ~ now </sub>  </li>
 
 ## Activities
 
